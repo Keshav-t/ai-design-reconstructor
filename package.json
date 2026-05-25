@@ -1,0 +1,12 @@
+{
+  "name": "ai-design-reconstructor",
+  "version": "1.0.0",
+  "description": "AI Design Reconstructor powered by Claude",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0"
+  }
+}
